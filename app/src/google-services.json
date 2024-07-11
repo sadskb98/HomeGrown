@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644368436624",
+    "project_id": "home-grown-eddc6",
+    "storage_bucket": "home-grown-eddc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644368436624:android:7476adca631f6531bbb715",
+        "android_client_info": {
+          "package_name": "com.sadskb98.homegrown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnnPze-iMnjRDp4Y1WQUumJ6oed1m67PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
